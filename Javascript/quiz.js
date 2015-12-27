@@ -111,6 +111,7 @@ function quiz() {
 				greaterAppalachia -= 5;
 				break;
 			case "no":
+				alert("You are an ignorant pig.");
 				yankeedom -= 20;
 				leftCoast -= 10;
 				deepSouth += 10;
